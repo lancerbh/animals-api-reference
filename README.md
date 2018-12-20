@@ -46,6 +46,6 @@ Utilizando a implementação de referência, o diagrama de atividades e as entid
 
 ## Dúvidas
 
-* O candidato DEVE enviar um email para [gp@grupomult.com.br](mailto:gp@grupomult.com.br) com cópia para [lancer.castro@grupomult.com.br](mailto:lancer.castro@grupomult.com.br) com a URL do repositório onde contenha a implementação realizada.
+* Caso o candidato conclua a implementação antes do prazo definido, poderá enviar um email para [gp@grupomult.com.br](mailto:gp@grupomult.com.br) com cópia para [lancer.castro@grupomult.com.br](mailto:lancer.castro@grupomult.com.br) notificando a conclusão do exercício.
 * O candidato PODE entrar em contato através do email [gp@grupomult.com.br](mailto:gp@grupomult.com.br) para qualquer dúvida sobre o processo.
 * O candidato PODE entrar em contato através do email [lancer.castro@grupomult.com.br](mailto:lancer.castro@grupomult.com.br) para qualquer dúvida sobre o exercício.
