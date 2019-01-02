@@ -1,1 +1,1 @@
-O exercício foi movido para: [https://github.com/lancerbh/grupomult-api](https://github.com/lancerbh/grupomult-api)
+Movido para: https://gitlab.com/lancer.castro/demo-api
